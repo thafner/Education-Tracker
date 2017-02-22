@@ -1,0 +1,4 @@
+services:
+#    lesson.example:
+#        class: LessonBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
